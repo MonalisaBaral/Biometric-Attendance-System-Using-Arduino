@@ -23,7 +23,6 @@ The **Biometric Attendance System** is designed to automate attendance tracking 
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/circuit_diagram.jpg)
 
-> **Note**: The circuit diagram shown above is created and designed by the project author.
 
 ### Project Documentation
 For detailed information about the project, including its design, working principles, and a more in-depth explanation of the components used, please refer to the full project documentation here:  
