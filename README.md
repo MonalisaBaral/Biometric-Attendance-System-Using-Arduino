@@ -21,7 +21,7 @@ The **Biometric Attendance System** is designed to automate attendance tracking 
 - **Jumper wires and breadboard**
   
 ### Circuit Diagram
-![Circuit Diagram](https://i.imgur.com/wnP4GBE.png)
+![Circuit Diagram](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/circuit_diagram.jpg)
 
 ## Software Requirements
 - **Arduino IDE**: [Download here](https://www.arduino.cc/en/software)
