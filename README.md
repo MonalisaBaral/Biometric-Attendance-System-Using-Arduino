@@ -1,7 +1,3 @@
-Sure! Below is the updated README with the **Project Documentation** section and the corresponding link to your documentation.
-
----
-
 # Biometric Attendance System Using Arduino
 
 ## Project Overview
@@ -98,5 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Key Changes:
 - **Project Documentation**: Added a section with a link to your own detailed project documentation.
-
-This should now link directly to your project documentation, making it easy for others to access all related details.
