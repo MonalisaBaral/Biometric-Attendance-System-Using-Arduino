@@ -1,3 +1,7 @@
+Sure! Below is the updated README with the **Project Documentation** section and the corresponding link to your documentation.
+
+---
+
 # Biometric Attendance System Using Arduino
 
 ## Project Overview
@@ -19,9 +23,15 @@ The **Biometric Attendance System** is designed to automate attendance tracking 
 - **Pushbuttons (4)**
 - **LEDs (2)**
 - **Jumper wires and breadboard**
-  
+
 ### Circuit Diagram
 ![Circuit Diagram](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/circuit_diagram.jpg)
+
+> **Note**: The circuit diagram shown above is created and designed by the project author.
+
+### Project Documentation
+For detailed information about the project, including its design, working principles, and a more in-depth explanation of the components used, please refer to the full project documentation here:  
+[**Project Documentation**](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/Project_Documentation.pdf)
 
 ## Software Requirements
 - **Arduino IDE**: [Download here](https://www.arduino.cc/en/software)
@@ -83,3 +93,10 @@ The project uses the `Adafruit Fingerprint Sensor Library` for reading and match
   
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### Key Changes:
+- **Project Documentation**: Added a section with a link to your own detailed project documentation.
+
+This should now link directly to your project documentation, making it easy for others to access all related details.
