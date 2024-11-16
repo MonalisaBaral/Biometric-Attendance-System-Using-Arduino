@@ -89,8 +89,3 @@ The project uses the `Adafruit Fingerprint Sensor Library` for reading and match
   
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### Key Changes:
-- **Project Documentation**: Added a section with a link to your own detailed project documentation.
