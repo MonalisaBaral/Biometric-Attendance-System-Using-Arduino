@@ -27,7 +27,7 @@ The **Biometric Attendance System** is designed to automate attendance tracking 
 
 ### Project Documentation
 For detailed information about the project, including its design, working principles, and a more in-depth explanation of the components used, please refer to the full project documentation here:  
-[**Project Documentation**](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/Project_Documentation.pdf)
+[**Project Documentation**](https://github.com/MonalisaBaral/Biometric-Attendance-System-Using-Arduino/blob/main/4%20%26%208%20Biometric%20Attendance%20documentation-converted%20(1).pdf)
 
 ## Software Requirements
 - **Arduino IDE**: [Download here](https://www.arduino.cc/en/software)
